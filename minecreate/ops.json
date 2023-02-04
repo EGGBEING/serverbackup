@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "4fbe5632-518a-4b8c-9758-8dae21e26354",
+    "name": "Qysa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "012f79dc-b0a9-4673-913e-7915f52663c0",
+    "name": "CommunistEggs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f8916ea2-e980-4730-9989-a6036489760d",
+    "name": "tuxedothekat",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

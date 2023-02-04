@@ -1,0 +1,18 @@
+[04Feb2023 06:02:01.379] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CommunistEggs is 012f79dc-b0a9-4673-913e-7915f52663c0
+[04Feb2023 06:02:06.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29eab5ac
+[04Feb2023 06:02:06.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CommunistEggs[/10.0.0.101:40434] logged in with entity id 221731 at (104.11914437997393, 64.0, 1155.9403997068093)
+[04Feb2023 06:02:06.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs joined the game
+[04Feb2023 06:04:12.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CommunistEggs lost connection: Disconnected
+[04Feb2023 06:04:12.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs left the game
+[04Feb2023 06:04:20.286] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CommunistEggs is 012f79dc-b0a9-4673-913e-7915f52663c0
+[04Feb2023 06:04:25.718] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3702be65
+[04Feb2023 06:04:25.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CommunistEggs[/10.0.0.1:60058] logged in with entity id 222225 at (150.4851042585543, 74.0, 1109.3892210427962)
+[04Feb2023 06:04:25.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs joined the game
+[04Feb2023 06:05:50.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CommunistEggs lost connection: Disconnected
+[04Feb2023 06:05:50.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs left the game
+[04Feb2023 22:15:23.464] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CommunistEggs is 012f79dc-b0a9-4673-913e-7915f52663c0
+[04Feb2023 22:15:28.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4aace67
+[04Feb2023 22:15:28.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CommunistEggs[/10.0.0.101:44698] logged in with entity id 222816 at (127.04857765487631, 72.0, 1145.2803621948435)
+[04Feb2023 22:15:28.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs joined the game
+[04Feb2023 22:45:11.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CommunistEggs lost connection: Disconnected
+[04Feb2023 22:45:11.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CommunistEggs left the game
